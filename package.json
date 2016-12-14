@@ -1,10 +1,10 @@
 {
   "name": "azmisahin-node-ddd",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Node Domain Driven Design",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"No test specified\" && exit 1"
+    "test": "mocha"
   },
   "repository": {
     "type": "git",
@@ -22,5 +22,9 @@
   "bugs": {
     "url": "https://github.com/azmisahin/azmisahin-node-ddd/issues"
   },
-  "homepage": "https://github.com/azmisahin/azmisahin-node-ddd#readme"
+  "homepage": "https://github.com/azmisahin/azmisahin-node-ddd#readme",
+  "dependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.2.0"
+  }
 }
