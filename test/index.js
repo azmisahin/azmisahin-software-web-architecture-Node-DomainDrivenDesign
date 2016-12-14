@@ -21,3 +21,4 @@
  */
 
 describe('Node Domain Driven Design Global Test', require('./global'));
+describe('Node Domain Driven Design App Test', require('./app'));

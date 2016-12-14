@@ -20,22 +20,16 @@
  * 
  * @public
  */
-var NodeDDD = (function () {    
-    /**
-     * Node Domain Driven Design
-     * Initializer
-     */
-    function NodeDDD() {
-    }
+var NodeDDD = function() {
+};
 
-    /**
-     * NodeDDD.Package
-     * Package Information
-     * 
-     * @public
-     */
-    NodeDDD.prototype.Package = require('./package.json');
-})();
+/**
+  * NodeDDD.Package
+  * Package Information
+  * 
+  * @public
+  */
+NodeDDD.prototype.Package = require('./package.json');
 
 /**
  * Node Domain Driven Design
