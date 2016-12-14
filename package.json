@@ -1,0 +1,26 @@
+{
+  "name": "azmisahin-node-ddd",
+  "version": "1.0.0",
+  "description": "Node Domain Driven Design",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"No test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/azmisahin/azmisahin-node-ddd.git"
+  },
+  "keywords": [
+    "Node",
+    "Js",
+    "Domain",
+    "Driven",
+    "Design"
+  ],
+  "author": "Azmi ŞAHİN <bilgi@azmisahin.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/azmisahin/azmisahin-node-ddd/issues"
+  },
+  "homepage": "https://github.com/azmisahin/azmisahin-node-ddd#readme"
+}
