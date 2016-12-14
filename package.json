@@ -1,6 +1,6 @@
 {
   "name": "azmisahin-node-ddd",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Node Domain Driven Design",
   "main": "index.js",
   "scripts": {
